@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biswaspiyalCSERUET
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript & React JS
+- 🌱 I’m currently learning and practicing Shopify, Liquid, Javascript & React JS
 - 💞️ I’m looking to collaborate on renowned company that offers jobs including Web Development
 - 📫 How to reach me email:biswaspiyal777@gmail.com
 
