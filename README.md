@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Piya Biswas
+- 👋 Hi, I’m Piyal Biswas
 - 👀 I’m interested in Web Development and Raw Coding as well
 - 🌱 I’m currently learning and practicing Shopify, Liquid, Javascript & React JS
 - 💞️ I’m looking to collaborate on renowned company that offers jobs including Web Development
